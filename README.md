@@ -27,7 +27,7 @@
   </h2>
 
   <div align="center">
-  <a href="https://discordapp.com/users/612488525786513417" target="_blank">
+  <a href="https://discordapp.com/users/603649695624986634" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
