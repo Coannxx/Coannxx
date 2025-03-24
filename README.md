@@ -69,7 +69,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Erickzao/count.svg"  />
+  <img src="https://profile-counter.glitch.me/Coannxx/count.svg"  />
 </div>
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mel3t32nbhyu4ouncnkzx46zuu&redirect=true">
