@@ -1,24 +1,3 @@
-<!-- About Me Section -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=444c4b&height=120&section=header"/>
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/93/00/df/9300dfb242ce0ef3e85f20467e131efc.gif"  />
-</div>
-
-<!-- Profile Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=444c4b&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Coan" alt="Typing SVG" />
-  </a>
-  <h2 align="center">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> About Me
-  </h2>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/🌍%20Country-Brazil-121212?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎂%20Age-18-121212?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💻%20Developer-121212?style=for-the-badge" />
-  </div>
-</div>
 
 <!-- Contact Section -->
 <div align="center">
