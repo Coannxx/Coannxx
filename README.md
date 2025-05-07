@@ -51,7 +51,7 @@
   <img src="https://profile-counter.glitch.me/Coannxx/count.svg"  />
 </div>
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mel3t32nbhyu4ouncnkzx46zuu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mel3t32nbhyu4ouncnkzx46zuu&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dt4l56eqj2cxr47arcbyznzdgu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dt4l56eqj2cxr47arcbyznzdgu&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=true" />
   </a>
 </div>
